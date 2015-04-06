@@ -1,6 +1,6 @@
 MagicFolderHide
 ===============
 
-A Simple method to hide your files based on a desgin flaw in Windows
+A Simple method to hide your files based on a desgin flaw in Windows <br>
 https://www.youtube.com/watch?v=RZbdzhZeeXc
 <img src="http://i.imgur.com/JEzXe7P.png">
